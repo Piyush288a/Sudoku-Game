@@ -1,4 +1,5 @@
-#include <stdio.h>
+ //cd "d:\PROJECTS\Sudoku Game\" ; if ($?) { g++ Final_Game.cpp ScrollEffect.cpp -o Final_Game } ; if ($?) { .\Final_Game }
+ #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
